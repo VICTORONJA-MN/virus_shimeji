@@ -108,7 +108,7 @@ Remove-Item -Recurse -Force build, dist
 pyinstaller main.spec
 ```
 
-## 8) Solución de problemas comunes
+## 8) Problemas que puden surgir
 
 ### Error: `No module named PyQt6`
 
@@ -157,7 +157,7 @@ pip install -r requisitos.txt
 pyinstaller main.spec
 ```
 
-## ¿Qué obtendrás al final?
+## Resultado esperado
 
 - Una app ejecutable en modo normal (`.exe`).
 - Un entorno de desarrollo listo para modificar el proyecto.
